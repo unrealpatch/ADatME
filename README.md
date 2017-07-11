@@ -8,7 +8,7 @@ Each time to "watch" an AD, you are given something for your time.
 A REWARD for watching.
 The manufacturer, the "MAN", will need to know several things before they present you with an AD.
 In this case; size of lawn, sitdown mower versus push or self propel, electric versus gas. 
-This questions and answers go into your PROFILE.
+These questions and answers go into your PROFILE.
 You need to create a PROFILE, if you want the REWARD. 
 The REWARD is only for the person who watched the AD, it is not transferable.
 If someone wanted to learn about lawnmowers and did not want a REWARD, they could sign in as a GUEST USER.
